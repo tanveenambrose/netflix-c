@@ -8,7 +8,6 @@ const App = () => {
   return (
     <div>
       <Home/>
-      <TitleCards/>
       <Footer/>
     </div>
   )
